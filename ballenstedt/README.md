@@ -1,5 +1,9 @@
 #Projekt Freifunk Ballenstedt
+#Karte
+[Link zur OSM Karte](http://osmtools.de/easymap/temp/map1233693250.html)
+![Map](https://raw.githubusercontent.com/FreifunkMD/projekte/master/ballenstedt/easymap_2014-10-06.png)
 
+![Topographische Map](https://raw.githubusercontent.com/FreifunkMD/projekte/master/ballenstedt/ballenstedt-profil.jpg)
 ##laufende Kosten 
 
 Für den Betrieb einer eigenen Freifunk Infrastruktur ist eine redundante Auslegung der Backbone-Infrastruktur sinnvoll. Somit funktioniert das Freifunk Netzwerk auch bei dem Ausfall eines Gateways.
@@ -7,7 +11,7 @@ Für den Betrieb einer eigenen Freifunk Infrastruktur ist eine redundante Ausleg
 ### Gatway-Infrastruktur
 Name	 | Anzahl | Einzelpreis [€/Monat]| Gesamt [€/Monat]
 :---| :--- | :--- | :---
-Gateway | 2 | ca. 20 | ca. 40 
+Gateway [z.B. Netcup](https://www.netcup.de/bestellen/produkt.php?produkt=568) | 2 | ca. 20 | ca. 40 
 VPN | 2 | 5 | 10
 Gesamt | | |  50
 
@@ -33,7 +37,7 @@ Bullet M2 HP |1 |70 |70
 Antenne TRENDnet TEW-AO12O, 12dBi, 2.4GHz (für Bullet M2)  |1 | 70| 70
 Ubiquiti Tough Switch PoE TS-5-POE	 |5 |90 |450
 Ubiquiti Tough Switch PoE TS-8-PRO	 | 2 | 150 |300
-Halterung NanoStation |30 |10|  300
+[Halterung Ubiquiti Ubibracket](https://shop.omg.de/ubiquiti-networks/nanobracket/ubiquiti-ubibracket-universal-justierbares-bracket-fuer-wand-und-mast/a-7348/)|30 |10|  300
 LAN Kabel Flach 5M | 28 | 5 | 140 |
 LAN Kabel Flach 10M |4 |5 |20
 LAN Kabel 50M |1 |20 |20
@@ -47,7 +51,7 @@ Summe| | |3820
 Name | Anzahl | Zweck
 :---|:---|:--
 Ubiquiti Nanostation M2 |3 | Abdeckung u.A. Schlosspark, West, Nord-West, Nord-Ost
-Halterung NanoStation | 3 | Infrastruktur
+Halterung Ubiquiti Ubibracket | 3 | Infrastruktur
 Ubiquiti Tough Switch PoE TS-5-POE	 |1 | Stromversorgung, Backbone Infrastruktur
 LAN Kabel Flach 5M | 3 | Infrastruktur
 LAN Kabel ca. 50M zum Standort Schloss Ostseite  | 1 | Infrastruktur
@@ -56,7 +60,7 @@ Name | Anzahl | Zweck
 :---|:---|:--
 Ubiquiti Nanostation M2 |3 | Abdeckung Schlossplatz, Schlosspark
 Ubiquiti Nanostation M5 |2 | Richtfunk zum Rathausturm <br>Richtfunk zum Museum
-Halterung NanoStation | 5 | Infrastruktur
+Halterung Ubiquiti Ubibracket | 5 | Infrastruktur
 Ubiquiti Tough Switch PoE TS-8-PRO	 |1 | Stromversorgung, Backbone Infrastruktur
 LAN Kabel Flach 5M | 5 | Infrastruktur
 
@@ -65,7 +69,7 @@ Name | Anzahl | Zweck
 :---|:---|:--
 Ubiquiti Nanostation M2 |3 | Abdeckung Schlossplatz, Schlosspark
 Ubiquiti Nanostation M5 |1 | Richtfunk zum Richtfunk zum Schloss (Ostseite)
-Halterung NanoStation | 4 | Infrastruktur
+Halterung Ubiquiti Ubibracket | 4 | Infrastruktur
 Ubiquiti Tough Switch PoE TS-5-POE	 |1 | Stromversorgung, Backbone Infrastruktur
 LAN Kabel Flach 5M | 5 | Infrastruktur
 LAN Kabel Flach 10M |2 | Infrastruktur
@@ -76,7 +80,7 @@ Name | Anzahl | Zweck
 Ubiquiti Nanostation M2 |2 | Abdeckung Allee, Füßgängerzone
 Ubiquiti Bullet M2 HP |1 | Abdeckung Anhalter Platz
 Antenne TRENDnet TEW-AO12O, 12dBi, 2.4GHz   |1 | Rundstrahlantenne für Bullet M2
-Halterung NanoStation | 2 | Infrastruktur
+Halterung Ubiquiti Ubibracket | 2 | Infrastruktur
 Ubiquiti Tough Switch PoE TS-5-POE	 |1 | Stromversorgung, Backbone Infrastruktur
 LAN Kabel Flach 5M | 5 | Infrastruktur
 
@@ -85,7 +89,7 @@ Name | Anzahl | Zweck
 :---|:---|:--
 Ubiquiti Nanostation M2 |4 | Abdeckung Platz vor Oberer Turm
 Ubiquiti Nanostation M5 |1 | Richtfunk zum Rathausturm
-Halterung NanoStation | 5 | Infrastruktur
+Halterung Ubiquiti Ubibracket | 5 | Infrastruktur
 Ubiquiti Tough Switch PoE TS-5-POE	 |1 | Stromversorgung, Backbone Infrastruktur
 LAN Kabel Flach 5M | 5 | Infrastruktur
 
@@ -94,7 +98,7 @@ Name | Anzahl | Zweck
 :---|:---|:--
 Ubiquiti Nanostation M2 |3 | Abdeckung Rathausvorplatz, West, Süd, Ost
 Ubiquiti Nanostation M5 |3 | Richtfunk zum Schloss (Ostseite)<br> Richtfunk zum Oberer Turm <br>Richtfunk zum Markturm
-Halterung NanoStation | 6 | Infrastruktur
+Halterung Ubiquiti Ubibracket | 6 | Infrastruktur
 Ubiquiti Tough Switch PoE TS-8-PRO	 | 1 | Stromversorgung, Backbone Infrastruktur
 LAN Kabel Flach 5M | 6 | Infrastruktur
 LAN Kabel Flach 10M | 2 | Infrastruktur
@@ -104,7 +108,7 @@ Name | Anzahl | Zweck
 :---|:---|:--
 Ubiquiti Nanostation M2 |4 | Abdeckung Platz vor Marktturm
 Ubiquiti Nanostation M5 |1 | Richtfunk zum Rathausturm
-Halterung NanoStation | 5 | Infrastruktur
+Halterung Ubiquiti Ubibracket | 5 | Infrastruktur
 Ubiquiti Tough Switch PoE TS-5-POE	 |1 | Stromversorgung, Backbone Infrastruktur
 LAN Kabel Flach 5M | 5 | Infrastruktur
 
