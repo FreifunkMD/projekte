@@ -66,11 +66,11 @@ Bullet M2 HP |1 |70 |70
 Antenne TRENDnet TEW-AO12O, 12dBi, 2.4GHz (für Bullet M2)  |1 | 70| 70
 Ubiquiti Tough Switch PoE TS-5-POE	 |5 |90 |450
 Ubiquiti Tough Switch PoE TS-8-PRO	 | 2 | 150 |300
-[Halterung NanoBracket](http://varia-store.com/Zubehoer/Befestigungen/NanoBracket-Universal-Holder-for-NanoStation-other-CPEs::1228.html)|32 |10|  320
+[Halterung NanoBracket](http://varia-store.com/Zubehoer/Befestigungen/NanoBracket-Universal-Holder-for-NanoStation-other-CPEs::1228.html)|32 |7|  224
 LAN Kabel 5M | 30 | 5 | 150 |
 LAN Kabel 10M |4 |5 |20
 LAN Kabel 50M |1 |20 |20
-Summe| | |4010
+Summe| | |3914
 
 
 
