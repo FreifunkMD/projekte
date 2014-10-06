@@ -1,7 +1,7 @@
 #Projekt Freifunk Ballenstedt
 #Karte
 [Link zur OSM Karte](http://osmtools.de/easymap/temp/map1233693250.html)
-![Map](https://raw.githubusercontent.com/FreifunkMD/projekte/master/ballenstedt/easymap_2014-10-06.png)
+![Map](https://raw.githubusercontent.com/FreifunkMD/projekte/master/ballenstedt/osm-ballenstedt.jpg)
 
 ![Topographische Map](https://raw.githubusercontent.com/FreifunkMD/projekte/master/ballenstedt/ballenstedt-profil.jpg)
 ##laufende Kosten 
