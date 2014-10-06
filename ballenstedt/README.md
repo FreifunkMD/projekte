@@ -2,7 +2,7 @@
 
 
 [Link zur OSM Karte](http://osmtools.de/easymap/temp/map1233693250.html)
-![Map](https://raw.githubusercontent.com/FreifunkMD/projekte/master/ballenstedt/osm-ballenstedt-richtfunk.png)
+![Map](https://raw.githubusercontent.com/FreifunkMD/projekte/master/ballenstedt/osm-ballenstedt-richtfunk.jpg)
 
 ![Topographische Map](https://raw.githubusercontent.com/FreifunkMD/projekte/master/ballenstedt/ballenstedt-profil.jpg)
 
