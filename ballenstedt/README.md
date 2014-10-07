@@ -88,18 +88,10 @@ Name | Anzahl | Zweck
 [Knickschutztüllen](http://www.telegaertner.com/de/info/katalog/datavoice/?IdTreeGroup=13964) | 6 blau<br> 44 gelb<br>6 grau<br>6 grün <br>6 rot <br>6 schwarz | Netzwerk
 [LAN Kabel](http://www.highpatch.de/downloads/patchkabel/Draka-U-FTP-Cat6-UC400-S27.pdf) | 240m | Netzwerk, -20°C bis + 60°C
 
-=======
->>>>>>> Stashed changes
 LAN Kabel 5M | 30 | 5 | 150 |
 LAN Kabel 10M |4 |5 |20
 LAN Kabel 50M |1 |20 |20
 Summe| | |3914
-<<<<<<< Updated upstream
-=======
->>>>>>> FETCH_HEAD
->>>>>>> Stashed changes
-
-
 
 ##Standorte
 
