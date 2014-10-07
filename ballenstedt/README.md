@@ -53,9 +53,8 @@ Freifunk Knoten | 32 | 0,5 | 16
 ###Materialliste
 
 Aufgliederung der benötigten Hardware für den Betrieb von Freifunk an den gewünschten Standorten in Ballenstedt. Nicht berücksichtigt sind die benötigten Materialien für die Erschließung der jeweiligen Standorte mit Strom und Netzwerk.
-Netzwerkkabel sollten selbst gecrimpt werden (eigene Auswahl von Kabel, Steckern und Knickschutz möglich).
 
-[Einkaufsliste](http://geizhals.de/eu/?cat=WL-469198) (Freifunk Knoten + Switches) 
+[Einkaufsliste](http://geizhals.de/eu/?cat=WL-469198) (Freifunk Knoten und Switches) 
 
 Name	 | Anzahl  [-]| Einzelpreis [€] | Gesamt [€]
 :---| :--- | :--- | :---
@@ -67,10 +66,41 @@ Antenne TRENDnet TEW-AO12O, 12dBi, 2.4GHz (für Bullet M2)  |1 | 70| 70
 Ubiquiti Tough Switch PoE TS-5-POE	 |5 |90 |450
 Ubiquiti Tough Switch PoE TS-8-PRO	 | 2 | 150 |300
 [Halterung NanoBracket](http://varia-store.com/Zubehoer/Befestigungen/NanoBracket-Universal-Holder-for-NanoStation-other-CPEs::1228.html)|32 |7|  224
+<<<<<<< Updated upstream
+=======
+<<<<<<< HEAD
+LAN Kabel 240 M (siehe Anmerkung) | 240 | 1 | 300 |
+RJ45-Stecker MP8(8) FS Cat.6A | 70 | 1 | 70
+Knickschutztüllen | 70 | 0,6 | 42
+Summe| | |4136
+
+(konservative Schätzung der Kosten. Marktpreis ca. 3900 Euro)
+
+**Anmerkung** = Netzwerkkabel sollten selbst gecrimpt werden (eigene Auswahl von Kabel, Steckern und Knickschutz möglich).
+
+#### Kabel
+Name | Anzahl | Gesamtlänge
+:---|:---|:--
+LAN Kabel 5M | 30 | 150
+LAN Kabel 10M |4 | 20
+LAN Kabel 50M |1 |50
+
+Name | Anzahl | Zweck
+:---|:---|:--
+[RJ45-Stecker MP8(8) FS Cat.6A](http://www.telegaertner.com/de/info/katalog/datavoice/?IdTreeGroup=14254&IdProduct=9881) | 70 | Netzwerk
+[Knickschutztüllen](http://www.telegaertner.com/de/info/katalog/datavoice/?IdTreeGroup=13964) | 6 blau<br> 44 gelb<br>6 grau<br>6 grün <br>6 rot <br>6 schwarz | Netzwerk
+[LAN Kabel](http://www.highpatch.de/downloads/patchkabel/Draka-U-FTP-Cat6-UC400-S27.pdf) | 240m | Netzwerk, -20°C bis + 60°C
+
+=======
+>>>>>>> Stashed changes
 LAN Kabel 5M | 30 | 5 | 150 |
 LAN Kabel 10M |4 |5 |20
 LAN Kabel 50M |1 |20 |20
 Summe| | |3914
+<<<<<<< Updated upstream
+=======
+>>>>>>> FETCH_HEAD
+>>>>>>> Stashed changes
 
 
 
@@ -155,14 +185,4 @@ TP-Link WDR4300 | 1 | Abdeckung Innenbereich
 ### Kabel
 Netzwerkkabel werden selbst gecrimpt.
 
-Name | Anzahl | Zweck
-:---|:---|:--
-[RJ45-Stecker MP8(8) FS Cat.6A](http://www.telegaertner.com/de/info/katalog/datavoice/?IdTreeGroup=14254&IdProduct=9881) | 70 | Netzwerk
-[Knickschutztüllen](http://www.telegaertner.com/de/info/katalog/datavoice/?IdTreeGroup=13964) | 6 blau<br> 44 gelb<br>6 grau<br>6 grün <br>6 rot <br>6 schwarz | Netzwerk
-[LAN Kabel](http://www.highpatch.de/downloads/patchkabel/Draka-U-FTP-Cat6-UC400-S27.pdf) | 240m | Netzwerk, -20°C bis + 60°C
 
-Name | Anzahl | Gesamtlänge
-:---|:---|:--
-LAN Kabel 5M | 30 | 150
-LAN Kabel 10M |4 | 20
-LAN Kabel 50M |1 |50
