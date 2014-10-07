@@ -8,17 +8,20 @@
 
 ##Beschreibung
 
+Aufbau eines Freifunk Netzwerkes in der Stadt Ballenstedt. An den Standorten Schlossturm, Stadtmuseum, Touristinformation, Rathaus, Marktturm, Obererturm und
+
 ###Richtfunk
 
 ####GPS Koodinaten:
 
-* Schlossturm: 11.217789888329 51.718827012027
-* Schloss Ostseite 11,217789888329 51,718827012027 
-* Stadtmuseum 11.220883816435 51.719074602436
-* Touristinformation 11.234866172029 51.721028691247
-* Rathaus 11,241094261358 51,720772803471 
-* Marktturm 11.243155538993 51.720699692408
-* Obererturm 11.238185405683 51.721188204972
+* Schlossturm (A): 11.217789888329 51.718827012027
+* Schloss Ostseite (B): 11,217789888329 51,718827012027 
+* Stadtmuseum (C): 11.220883816435 51.719074602436
+* Touristinformation (D): 11.234866172029 51.721028691247
+* Obererturm (E): 11.238185405683 51.721188204972
+* Rathaus (F): 11.241094261358 51.720772803471
+* Marktturm (G): 11.243155538993 51.720699692408
+* Bibliothek (H): 11.242994606451 51.720591687217
 
 ####Entfernungen
 
@@ -30,7 +33,8 @@ Schloss Ostseite (B) | Rathaus (F) | 2,6
 Schloss Ostseite (B) | Stadtmuseum (C) |  0,35
 Schloss Ostseite (F) | Touristinformation (D)  | 1,91 
 Rathaus (F) | Oberer Turm (E) | 0,33 
-Rathaus (F) | Markturm (G) | 0,23 
+Rathaus (F) | Markturm (G) | 0,23
+Marktturm (G) | Bibliothek (H) | 0,03
 
 ##laufende Kosten 
 
@@ -42,6 +46,8 @@ Name	 | Anzahl | Einzelpreis [€/Monat]| Gesamt [€/Monat]
 Gateway [z.B. Netcup](https://www.netcup.de/bestellen/produkt.php?produkt=568) | 2 | ca. 20 | ca. 40 
 VPN | 2 | 5 | 10
 Gesamt | | |  50
+
+**Anmerkung 1:** Um die Grundlast zu minimieren wäre es sinnvoll z.B. auch ein Gateway innerhalb der Stadt zu betreiben z.B. im Rathaus.
 
 ###Stromkosten Freifunk Knoten
 
@@ -66,17 +72,17 @@ Antenne TRENDnet TEW-AO12O, 12dBi, 2.4GHz (für Bullet M2)  |1 | 70| 70
 Ubiquiti Tough Switch PoE TS-5-POE	 |5 |90 |450
 Ubiquiti Tough Switch PoE TS-8-PRO	 | 2 | 150 |300
 [Halterung NanoBracket](http://varia-store.com/Zubehoer/Befestigungen/NanoBracket-Universal-Holder-for-NanoStation-other-CPEs::1228.html)|32 |7|  224
-LAN Kabel 240 M (siehe Anmerkung) | 240 | 1 | 300 |
+LAN Kabel 240 M (siehe Anmerkung 2) | 240 | 1 | 300 |
 RJ45-Stecker MP8(8) FS Cat.6A | 70 | 1 | 70
 Knickschutztüllen | 70 | 0,6 | 42
 Summe| | |4136
 
 (konservative Schätzung der Kosten. Marktpreis ca. 3900 Euro)
 
-**Anmerkung** = Netzwerkkabel sollten selbst gecrimpt werden (eigene Auswahl von Kabel, Steckern und Knickschutz möglich).
+**Anmerkung 2** = Netzwerkkabel sollten selbst gecrimpt werden (eigene Auswahl von Kabel, Steckern und Knickschutz möglich).
 
 #### Kabel
-Name | Anzahl | Gesamtlänge
+Name | Anzahl | Gesamtlänge (m)
 :---|:---|:--
 LAN Kabel 5M | 30 | 150
 LAN Kabel 10M |4 | 20
@@ -87,11 +93,6 @@ Name | Anzahl | Zweck
 [RJ45-Stecker MP8(8) FS Cat.6A](http://www.telegaertner.com/de/info/katalog/datavoice/?IdTreeGroup=14254&IdProduct=9881) | 70 | Netzwerk
 [Knickschutztüllen](http://www.telegaertner.com/de/info/katalog/datavoice/?IdTreeGroup=13964) | 6 blau<br> 44 gelb<br>6 grau<br>6 grün <br>6 rot <br>6 schwarz | Netzwerk
 [LAN Kabel](http://www.highpatch.de/downloads/patchkabel/Draka-U-FTP-Cat6-UC400-S27.pdf) | 240m | Netzwerk, -20°C bis + 60°C
-
-LAN Kabel 5M | 30 | 5 | 150 |
-LAN Kabel 10M |4 |5 |20
-LAN Kabel 50M |1 |20 |20
-Summe| | |3914
 
 ##Standorte
 
@@ -168,10 +169,8 @@ TP-Link WDR4300 | 1 | Abdeckung Innenbereich
 
 
 ##Netzwerk Management
-* V-LAN1: mesh vlan (2,4 GHz)
+* V-LAN1: Mesh vlan (2,4 GHz)
 * V-LAN2: Richtfunk vlan (5 GHz)
 
 ### Kabel
 Netzwerkkabel werden selbst gecrimpt.
-
-
