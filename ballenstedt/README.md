@@ -8,7 +8,7 @@
 
 ##Beschreibung
 
-Aufbau eines Freifunk Netzwerkes in der Stadt Ballenstedt. An den Standorten Schlossturm, Stadtmuseum, Touristinformation, Rathaus, Marktturm, Obererturm und
+Aufbau eines Freifunk Netzwerkes in der Stadt Ballenstedt. An den Standorten Schlossturm, Stadtmuseum, Touristinformation, Rathaus, Marktturm, Obererturm und Bibliothek.
 
 ###Richtfunk
 
