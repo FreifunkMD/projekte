@@ -66,9 +66,6 @@ Antenne TRENDnet TEW-AO12O, 12dBi, 2.4GHz (für Bullet M2)  |1 | 70| 70
 Ubiquiti Tough Switch PoE TS-5-POE	 |5 |90 |450
 Ubiquiti Tough Switch PoE TS-8-PRO	 | 2 | 150 |300
 [Halterung NanoBracket](http://varia-store.com/Zubehoer/Befestigungen/NanoBracket-Universal-Holder-for-NanoStation-other-CPEs::1228.html)|32 |7|  224
-<<<<<<< Updated upstream
-=======
-<<<<<<< HEAD
 LAN Kabel 240 M (siehe Anmerkung) | 240 | 1 | 300 |
 RJ45-Stecker MP8(8) FS Cat.6A | 70 | 1 | 70
 Knickschutztüllen | 70 | 0,6 | 42
