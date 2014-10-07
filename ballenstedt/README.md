@@ -40,7 +40,7 @@ Marktturm (G) | Bibliothek (H) | 0,03
 
 Für den Betrieb einer eigenen Freifunk Infrastruktur ist eine redundante Auslegung der Backbone-Infrastruktur sinnvoll. Somit funktioniert das Freifunk Netzwerk auch bei dem Ausfall eines Gateways.
 
-### Gatway-Infrastruktur
+### Gateway-Infrastruktur
 Name	 | Anzahl | Einzelpreis [€/Monat]| Gesamt [€/Monat]
 :---| :--- | :--- | :---
 Gateway [z.B. Netcup](https://www.netcup.de/bestellen/produkt.php?produkt=568) | 2 | ca. 20 | ca. 40 
