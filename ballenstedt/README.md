@@ -74,6 +74,7 @@ Ubiquiti Tough Switch PoE TS-8-PRO	 | 2 | 150 |300
 LAN Kabel 240 M (siehe Anmerkung 2) | 240 | 1 | 300 |
 Summe| | |3800
 
+(konservative Schätzung der Kosten. Marktpreis ca. 3900 Euro)
 
 ###Verbrauchsmaterial / Werkzeug
 
@@ -87,7 +88,6 @@ RJ45-Stecker MP8(8) FS Cat.6A	| 100 | 1€ | 100 €
 Knickschutztüllen| 100 |0,6 | 60 €
 gesamt | 1 |1 | 549 €
 
-(konservative Schätzung der Kosten. Marktpreis ca. 3900 Euro)
 
 **Anmerkung 2** = Netzwerkkabel sollten selbst gecrimpt werden (eigene Auswahl von Kabel, Steckern und Knickschutz möglich).
 
