@@ -111,10 +111,10 @@ Zweck	 | Zeit pro Einheit [h] | Anzahl|  Gesamtzeit [h]
 Gateway| 10h | 2 | 20h
 Firmware |10h | 1 | 10h
 Knoten Flashen | 24 | 0,25h | 6,0h
-Knoten konfigurieren | 10h | 0,25 | 2,5h
-Swichts konfigurieren | 7h | 0,5 | 2,5h
-250m Kabel ziehen & Krimpen | 10?h | 1 | 10h
-Knoten befestigen | 0,33h | 43 | 14,3h
+Knoten konfigurieren | 10h | 0,25h | 2,5h
+Swichts konfigurieren | 7h | 0,5h | 2,5h
+250m Kabel ziehen & Krimpen | 10h | 1 | 10h
+Knoten befestigen | 0,33h | 43h | 14,3h
 Anfahrt | 2h | 6 | 12h
 Gesamt | 77,3h | 1 | 77,3h
 
