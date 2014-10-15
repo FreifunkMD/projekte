@@ -71,11 +71,21 @@ Bullet M2 HP |1 |70 |70
 Antenne TRENDnet TEW-AO12O, 12dBi, 2.4GHz (für Bullet M2)  |1 | 70| 70
 Ubiquiti Tough Switch PoE TS-5-POE	 |5 |90 |450
 Ubiquiti Tough Switch PoE TS-8-PRO	 | 2 | 150 |300
-[Halterung NanoBracket](http://varia-store.com/Zubehoer/Befestigungen/NanoBracket-Universal-Holder-for-NanoStation-other-CPEs::1228.html)|32 |7|  224
 LAN Kabel 240 M (siehe Anmerkung 2) | 240 | 1 | 300 |
-RJ45-Stecker MP8(8) FS Cat.6A | 70 | 1 | 70
-Knickschutztüllen | 70 | 0,6 | 42
-Summe| | |4136
+Summe| | |3800
+
+
+###Verbrauchsmaterial / Werkzeug
+
+Name | Anzahl | Einzelpreis | Preis Gesamt
+:---| :--- | :--- | :---
+Crimpzange | 1 |40 € | 40 €
+Kabelprüfer | 1 | 110€| 110 €
+Kabelbinder | 100 | 0,15€| 15 €
+Halterung NanoBracket| 32 | 7€ | 224 €
+RJ45-Stecker MP8(8) FS Cat.6A	| 100 | 1€ | 100 €
+Knickschutztüllen| 100 |0,6 | 60 €
+gesamt | 1 |1 | 549 €
 
 (konservative Schätzung der Kosten. Marktpreis ca. 3900 Euro)
 
@@ -93,6 +103,36 @@ Name | Anzahl | Zweck
 [RJ45-Stecker MP8(8) FS Cat.6A](http://www.telegaertner.com/de/info/katalog/datavoice/?IdTreeGroup=14254&IdProduct=9881) | 70 | Netzwerk
 [Knickschutztüllen](http://www.telegaertner.com/de/info/katalog/datavoice/?IdTreeGroup=13964) | 6 blau<br> 44 gelb<br>6 grau<br>6 grün <br>6 rot <br>6 schwarz | Netzwerk
 [LAN Kabel](http://www.highpatch.de/downloads/patchkabel/Draka-U-FTP-Cat6-UC400-S27.pdf) | 240m | Netzwerk, -20°C bis + 60°C
+
+
+### Arbeitsleistung / Zeitplan	
+Zweck	 | Zeit pro Einheit [h] | Anzahl|  Gesamtzeit [h]
+:---| :--- | :--- | :---
+Gateway| 10h | 2 | 20h
+Firmware |10h | 1 | 10h
+Knoten Flashen | 24 | 0,25h | 6,0h
+Knoten konfigurieren | 10h | 0,25 | 2,5h
+Swichts konfigurieren | 7h | 0,5 | 2,5h
+250m Kabel ziehen & Krimpen | 10?h | 1 | 10h
+Knoten befestigen | 0,33h | 43 | 14,3h
+Anfahrt | 2h | 6 | 12h
+Gesamt | 77,3h | 1 | 77,3h
+
+Annahme 20 € pro Stunde
+77,3h *25 €/h =  1932,5 €
+
+
+Abrechnung erfolgt nach tatsächlichen Aufwand
+
+
+### Kosten 
+Name | Anzahl | Summe gesamt
+:---| :--- | :---
+Knoten Hardware | 1 | 3800 €
+Verbrauchsmaterial | 1 | 600 €
+Arbeitsleistung | 77,3h | 1932,5 €
+Gesamt | 1 | 6332,5 €
+
 
 ##Standorte
 
@@ -174,3 +214,5 @@ TP-Link WDR4300 | 1 | Abdeckung Innenbereich
 
 ### Kabel
 Netzwerkkabel werden selbst gecrimpt.
+
+
