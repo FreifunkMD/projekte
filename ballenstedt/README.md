@@ -1,4 +1,3 @@
-[[_TOC_]]
 #Projekt Freifunk Ballenstedt
 
 
