@@ -1,3 +1,4 @@
+[[_TOC_]]
 #Projekt Freifunk Ballenstedt
 
 
@@ -118,9 +119,6 @@ Knoten befestigen | 0,33h | 43h | 14,3h
 Anfahrt | 2h | 6 | 12h
 Gesamt | 77,3h | 1 | 77,3h
 
-Annahme 20 € pro Stunde
-77,3h *25 €/h =  1932,5 €
-
 
 Abrechnung erfolgt nach tatsächlichen Aufwand
 
@@ -130,8 +128,8 @@ Name | Anzahl | Summe gesamt
 :---| :--- | :---
 Knoten Hardware | 1 | 3800 €
 Verbrauchsmaterial | 1 | 600 €
-Arbeitsleistung | 77,3h | 1932,5 €
-Gesamt | 1 | 6332,5 €
+Arbeitsleistung | 77,3h | 77,3h
+Gesamt | 1 | 4300 €
 
 
 ##Standorte
