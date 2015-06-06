@@ -34,3 +34,5 @@ kulturanker-12         | off       | on       | off     | yes  |                
 kulturanker-13         | off       | on       | off     | yes  |                                     | kiste
 kulturanker-15         | off       | on       | off     | yes  |                                     | kiste
 kulturanker-16         | off       | on       | off     | yes  |                                     | kiste
+kulturanker-outdoor-04 | off       | on       | off     | yes  |                               | kiste
+
