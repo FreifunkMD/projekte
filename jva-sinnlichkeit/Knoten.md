@@ -25,12 +25,12 @@ kiste
 
 name                   | mesh vpn | mesh wan | wan ip | ssh | IPv6                                | standort
 ---------------------- | -------- | -------- | ------ | --- | ----------------------------------- | --------
-kulturanker-07         | ??       | ??       | ??     | ??  |                                     | kiste
-kulturanker-08         | ??       | ??       | ??     | ??  |                                     | kiste
-kulturanker-09         | ??       | ??       | ??     | ??  |                                     | kiste
-kulturanker-10         | ??       | ??       | ??     | ??  |                                     | kiste
-kulturanker-11         | ??       | ??       | ??     | ??  |                                     | kiste
-kulturanker-12         | ??       | ??       | ??     | ??  |                                     | kiste
-kulturanker-13         | ??       | ??       | ??     | ??  |                                     | kiste
-kulturanker-15         | ??       | ??       | ??     | ??  |                                     | kiste
-kulturanker-16         | ??       | ??       | ??     | ??  |                                     | kiste
+kulturanker-07         | off       | on       | off     | yes  |                                     | kiste
+kulturanker-08         | off       | on       | off     | yes  |                                     | kiste
+kulturanker-09         | off       | on       | off     | yes  |                                     | kiste
+kulturanker-10         | off       | on       | off     | yes  |                                     | kiste
+kulturanker-11         | off       | on       | off     | yes  |                                     | kiste
+kulturanker-12         | off       | on       | off     | yes  |                                     | kiste
+kulturanker-13         | off       | on       | off     | yes  |                                     | kiste
+kulturanker-15         | off       | on       | off     | yes  |                                     | kiste
+kulturanker-16         | off       | on       | off     | yes  |                                     | kiste
