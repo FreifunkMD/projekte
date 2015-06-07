@@ -10,7 +10,8 @@ kulturanker-03         | ??       | ??       | ??     | ??  | fda9:26e:5805:0:32
 kulturanker-04         | ??       | ??       | ??     | ??  | fda9:26e:5805:0:32b5:c2ff:fed9:9706 | patchraum video hinter hauptpatchraum
 kulturanker-05         | off      | on       | off    | yes | fda9:26e:5805:0:32b5:c2ff:fed9:9774 | haus 1 eg, kunst kloster museum
 Kulturanker-06         | off      | on       | off    | yes | fda9:26e:5805:0:32b5:c2ff:fed9:9810 | wache (felix)
-kulturanker-07         | off       | on      | off     | yes |                                     | wache, eg HG (JVA Karte, Knoten aktuell offline)
+kulturanker-07         | off       | on      | off     | yes |                                     | Zelle 0.32 (eg HG)
+kulturanker-09         | off       | on       | off     | yes  |                                     | Zelle 0.14 (eg HG)
 kulturanker-14         | off      | on       | off    | yes | fda9:26e:5805:0:32b5:c2ff:fed9:9822 | küche (zwischen hof bar und dome)
 kulturanker-17         | ??       | ??       | ??     | ??  | fda9:26e:5805:0:32b5:c2ff:fed9:97b2 | *??*
 kulturanker-18         | ??       | ??       | ??     | ??  | fda9:26e:5805:0:32b5:c2ff:fed9:9792 | *??*
@@ -27,7 +28,6 @@ kiste
 name                   | mesh vpn | mesh wan | wan ip | ssh | IPv6                                | standort
 ---------------------- | -------- | -------- | ------ | --- | ----------------------------------- | --------
 kulturanker-08         | off       | on       | off     | yes  |                                     | kiste
-kulturanker-09         | off       | on       | off     | yes  |                                     | kiste
 kulturanker-10         | off       | on       | off     | yes  |                                     | kiste
 kulturanker-11         | off       | on       | off     | yes  |                                     | kiste
 kulturanker-12         | off       | on       | off     | yes  |                                     | kiste
