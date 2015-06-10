@@ -20,7 +20,7 @@ Kulturanker-20         | off      | on       | off    | yes | fda9:26e:5805:0:32
 kulturanker-outdoor-01 | off      | on       | off    | yes | fda9:26e:5805:0:6a72:51ff:fe28:80f  | dach haus 1 zum hof mit bar
 kulturanker-outdoor-02 | off      | on       | off    | yes | fda9:26e:5805:0:6a72:51ff:fe28:10fb | dach haus 1 zum dome
 kulturanker-outdoor-03 | off      | on       | off    | yes | fda9:26e:5805:0:6a72:51ff:fe28:10fe | fenster über makerburg
-makerburg              | off      | on       | off     | no  | fda9:026e:5805::ea94:f6ff:fe62:a45c | makerburg
+makerburg              | off      | on       | off    | no  | fda9:026e:5805::ea94:f6ff:fe62:a45c | makerburg
 
 kiste
 -----
