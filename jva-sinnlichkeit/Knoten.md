@@ -12,9 +12,11 @@ kulturanker-05         | off      | on       | off    | yes | fda9:26e:5805:0:32
 Kulturanker-06         | off      | on       | off    | yes | fda9:26e:5805:0:32b5:c2ff:fed9:9810 | wache (felix)
 kulturanker-07         | off      | on       | off    | yes | fda9:26e:5805:0:32b5:c2ff:fed9:acb4 | Zelle 0.32 (eg HG)
 kulturanker-09         | off      | on       | off    | yes | fda9:26e:5805:0:32b5:c2ff:fed9:9784 | Zelle 0.14 (eg HG)
+kulturanker-11         | off      | on       | off    | yes | fda9:26e:5805:0:32b5:c2ff:fed9:b0ca | orgagebäude eg ecke glaskasten
 kulturanker-12         | off      | on       | off    | yes | fda9:26e:5805:0:32b5:c2ff:fed9:ab64 | Haus 1 EG, nahe Küche
 kulturanker-14         | off      | on       | off    | yes | fda9:26e:5805:0:32b5:c2ff:fed9:9822 | küche (zwischen hof bar und dome)
 kulturanker-15         | off      | on       | off    | yes |                                     | haus 1, 1. og, über knoten 03
+kulturanker-16         | off      | on       | off    | yes | fda9:26e:5805:0:32b5:c2ff:fed9:acf2 | bar hinten bei makerburg
 kulturanker-18         | off      | on       | off    | yes | fda9:26e:5805:0:32b5:c2ff:fed9:9792 | turnhalle bühne
 Kulturanker-19         | off      | on       | off    | yes | fda9:26e:5805:0:32b5:c2ff:fed9:9868 | turnhalle empore
 Kulturanker-20         | off      | on       | off    | yes | fda9:26e:5805:0:32b5:c2ff:fed9:97e0 | patchraum verwaltung haus 1
@@ -30,9 +32,7 @@ name                   | mesh vpn | mesh wan | wan ip | ssh | IPv6              
 ---------------------- | -------- | -------- | ------ | --- | ----------------------------------- | --------
 kulturanker-08         | off      | on       | off    | yes |                                     | kiste
 kulturanker-10         | off      | on       | off    | yes |                                     | kiste
-kulturanker-11         | off      | on       | off    | yes |                                     | kiste
 kulturanker-13         | off      | on       | off    | yes |                                     | kiste
-kulturanker-16         | off      | on       | off    | yes |                                     | kiste
 kulturanker-17         | ??       | ??       | ??     | ??  | fda9:26e:5805:0:32b5:c2ff:fed9:97b2 | kiste
 kulturanker-outdoor-04 | off      | on       | off    | yes |                                     | kiste
 
