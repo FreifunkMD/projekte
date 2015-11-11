@@ -38,3 +38,19 @@ Name | Anzahl | Preis einzeln | Preis gesamt
 [AK 673-A :: USB-Kabel 2.0,A-Stecker/Mini-B-USB-5P-St>1,5m](https://www.reichelt.de/USB-Kabel/AK-673-A/3/index.html?&ACTION=3&LA=5000&GROUP=EU4&GROUPID=6907&ARTICLE=45361&START=0&SORT=artnr&OFFSET=16) |2 x | 1,00€ | 2 €
 [Huawei E5151]() | 1 x |  ca. 58 € | ca. 58 €
 Gesamt | | | 76,1 €
+
+
+## Verpackung
+* Bau einer Holzkiste mit folgenden Abmaßen (außen) 640 x 440 x 105 mm
+* Verschraubung der 841N Geräte am Kistenboden
+* Akkus und UMTS Modem werden mit Klettverschluss am Kistenboden verklebt
+
+## Fotos
+![image](freifunkmd-balkan-1.png =250x)
+![image](freifunkmd-balkan-2.png =250x)
+![image](freifunkmd-balkan-5.png =250x)
+![image](freifunkmd-balkan-6.png =250x)
+![image](freifunkmd-balkan-3.png =250x)
+![image](freifunkmd-balkan-4.png =250x)
+
+
