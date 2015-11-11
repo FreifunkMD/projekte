@@ -46,11 +46,11 @@ Gesamt | | | 76,1 €
 * Akkus und UMTS Modem werden mit Klettverschluss am Kistenboden verklebt
 
 ## Fotos
-![image](freifunkmd-balkan-1.png =250x)
-![image](freifunkmd-balkan-2.png =250x)
-![image](freifunkmd-balkan-5.png =250x)
-![image](freifunkmd-balkan-6.png =250x)
-![image](freifunkmd-balkan-3.png =250x)
-![image](freifunkmd-balkan-4.png =250x)
+![image](freifunkmd-balkan-1.png)
+![image](freifunkmd-balkan-2.png)
+![image](freifunkmd-balkan-5.png)
+![image](freifunkmd-balkan-6.png)
+![image](freifunkmd-balkan-3.png)
+![image](freifunkmd-balkan-4.png)
 
 
