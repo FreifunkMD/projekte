@@ -5,7 +5,7 @@
 * Sprachen:arabisch, kurdisch, english
 
 ## Technik
-* Knoten von TP-Link: brg-ref-1 bis brg-ref-20
+* Knoten von TP-Link: Refugees-Welcome-Altstadt-1 bis Refugees-Welcome-Altstadt-5
 * 2x Nanostation Loco M2
 * Halterungen: 2x Nanobracket (für jeweils 1x NS Loco M2)
 
